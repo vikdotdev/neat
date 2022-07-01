@@ -1,5 +1,4 @@
 require "sass"
-require "neat/generator"
 
 module Neat
   if defined?(Rails) && defined?(Rails::Engine)
